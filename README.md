@@ -6,6 +6,8 @@ This app allows developers to create a Team Profile by answerinf a few questions
 # Installation 
 npm i 
 
+npm i jest
+
 # Usage
 run Node app.js in the terminal 
 
