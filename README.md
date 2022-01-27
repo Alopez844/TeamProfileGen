@@ -8,6 +8,9 @@ npm i
 
 npm i jest
 
+# Walkthrough Video
+https://youtu.be/STR9_XwhweI
+
 # Usage
 run Node app.js in the terminal 
 
